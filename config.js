@@ -1,1 +1,1 @@
-const domain="medratid.com",sites=[{name:"CV Website",url:"https://"+domain},{name:"Expense Splitter",url:"https://splitter."+domain},{name:"Price Tracker",url:"https://tracker."+domain},{name:"Overleaf LaTeX",url:"https://overleaf."+domain}];
+const domain="medratid.com",sites=[{name:"CV Website",url:"https://"+domain},{name:"Expense Splitter",url:"https://splitter."+domain},{name:"Price Tracker",url:"https://tracker."+domain},{name:"Image Resizer",url:"https://resizer."+domain},{name:"Overleaf LaTeX",url:"https://overleaf."+domain}];
